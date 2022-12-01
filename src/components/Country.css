@@ -1,0 +1,19 @@
+.country-img{
+    width: 200px;
+    /* border: 2px solid green; */
+    padding: 10px;
+
+}
+.country-image{
+    width: 130px;
+    margin-left: 50px;
+}
+.card{
+    /* background-color: mediumvioletred; */
+    /* color: white; */
+    border: 1px solid saddlebrown;
+    width: 40%;
+    margin: 2% auto;
+    padding: 20px 10px;
+    border-radius: 20px;
+}
